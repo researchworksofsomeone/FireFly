@@ -1,0 +1,17 @@
+{
+  "latest_file": "checkpoint_20261005T114620Z.pt",
+  "meta": {
+    "cell_name": "cell23_sspr_heb_100seed_paired",
+    "description": "Cell 23: paired SSPR and HEB 100-seed run. Failures are recorded, not fabricated.",
+    "created_at_utc": "20261005T114620Z",
+    "hf_bucket_url": "https://huggingface.co/buckets/APassionateResearchers/FireFlyStore",
+    "hf_bucket_repo_id": "APassionateResearchers/FireFlyStore",
+    "local_path": "hf_checkpoints/cell23_sspr_heb_100seed_paired/checkpoint_20261005T114620Z.pt",
+    "payload_keys": [
+      "paths",
+      "rows",
+      "summary"
+    ],
+    "torch_version": "2.11.0+cu130"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "latest_file": "checkpoint_20261005T055304Z.pt",
+  "meta": {
+    "cell_name": "cell11b_altiparmak_baseline",
+    "description": "Cell 11b: Altiparmak-style GraphSAGE + GraphSMOTE + ME baseline, faithful_portion6 and balanced_target500, 10 seeds.",
+    "created_at_utc": "20261005T055304Z",
+    "hf_bucket_url": "https://huggingface.co/buckets/APassionateResearchers/FireFlyStore",
+    "hf_bucket_repo_id": "APassionateResearchers/FireFlyStore",
+    "local_path": "hf_checkpoints/cell11b_altiparmak_baseline/checkpoint_20261005T055304Z.pt",
+    "payload_keys": [
+      "ALT_EPOCHS_CELL11B",
+      "ALT_HIDDEN_CELL11B",
+      "ALT_LR_CELL11B",
+      "ALT_MAX_REPS_CELL11B",
+      "ALT_ME_BALANCING_CELL11B",
+      "ALT_PORTION_CELL11B",
+      "ALT_SEEDS_CELL11B",
+      "ALT_SYMMETRIZE_CELL11B",
+      "ALT_VARIANTS_CELL11B",
+      "ALT_WD_CELL11B",
+      "results_alt_cell11b"
+    ],
+    "torch_version": "2.11.0+cu130"
+  }
+}

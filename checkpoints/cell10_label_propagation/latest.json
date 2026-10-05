@@ -1,0 +1,18 @@
+{
+  "latest_file": "checkpoint_20261005T054039Z.pt",
+  "meta": {
+    "cell_name": "cell10_label_propagation",
+    "description": "Cell 10: 10-seed graph label propagation baseline. ntac_rare_cell10 is only a compatibility alias for label propagation.",
+    "created_at_utc": "20261005T054039Z",
+    "hf_bucket_url": "https://huggingface.co/buckets/APassionateResearchers/FireFlyStore",
+    "hf_bucket_repo_id": "APassionateResearchers/FireFlyStore",
+    "local_path": "hf_checkpoints/cell10_label_propagation/checkpoint_20261005T054039Z.pt",
+    "payload_keys": [
+      "lp_f1_cell10",
+      "lp_rare_cell10",
+      "ntac_f1_cell10",
+      "ntac_rare_cell10"
+    ],
+    "torch_version": "2.11.0+cu130"
+  }
+}

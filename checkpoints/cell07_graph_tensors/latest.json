@@ -1,0 +1,28 @@
+{
+  "latest_file": "checkpoint_20261005T053614Z.pt",
+  "meta": {
+    "cell_name": "cell07_graph_tensors",
+    "description": "Cell 7: full/positive/negative graph edge tensors, weights, and normalization vectors.",
+    "created_at_utc": "20261005T053614Z",
+    "hf_bucket_url": "https://huggingface.co/buckets/APassionateResearchers/FireFlyStore",
+    "hf_bucket_repo_id": "APassionateResearchers/FireFlyStore",
+    "local_path": "hf_checkpoints/cell07_graph_tensors/checkpoint_20261005T053614Z.pt",
+    "payload_keys": [
+      "N_cell3",
+      "dis_full_cell7",
+      "dis_neg_cell7",
+      "dis_pos_cell7",
+      "dst_arr_cell3",
+      "ei_full_cell7",
+      "ei_neg_cell7",
+      "ei_pos_cell7",
+      "ew_full_cell7",
+      "ew_neg_cell7",
+      "ew_pos_cell7",
+      "sign_bin_arr_cell3",
+      "src_arr_cell3",
+      "syn_arr_cell3"
+    ],
+    "torch_version": "2.11.0+cu130"
+  }
+}

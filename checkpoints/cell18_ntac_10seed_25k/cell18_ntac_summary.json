@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "target_nodes": 25000,
+  "actual_nodes": 25000,
+  "actual_edges": 127440,
+  "steps": 3,
+  "timeout_sec": 900,
+  "memory_mb": 8192,
+  "base_seed": 12,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "n_valid_seeds": 10,
+  "mean_rare_ba": 0.4283184230299614,
+  "std_rare_ba": 0.0429565496045091,
+  "min_rare_ba": 0.3536406969099277,
+  "max_rare_ba": 0.48985864562787634,
+  "worker_path": "ntac_smoke_cell12/ntac_worker_cell12.py",
+  "work_dir": "ntac_smoke_cell12"
+}

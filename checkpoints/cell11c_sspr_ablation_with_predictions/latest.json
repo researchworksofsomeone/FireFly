@@ -1,0 +1,23 @@
+{
+  "latest_file": "checkpoint_20261005T105323Z.pt",
+  "meta": {
+    "cell_name": "cell11c_sspr_ablation_with_predictions",
+    "description": "Cell 11c: true 10-seed SSPR before/after refinement ablation with saved after-refinement test predictions and test labels.",
+    "created_at_utc": "20261005T105323Z",
+    "hf_bucket_url": "https://huggingface.co/buckets/APassionateResearchers/FireFlyStore",
+    "hf_bucket_repo_id": "APassionateResearchers/FireFlyStore",
+    "local_path": "hf_checkpoints/cell11c_sspr_ablation_with_predictions/checkpoint_20261005T105323Z.pt",
+    "payload_keys": [
+      "pred_sspr_cell11c",
+      "sspr_after_cell11c",
+      "sspr_before_cell11c",
+      "sspr_before_is_proxy_cell11c",
+      "sspr_config_cell11c",
+      "sspr_details_cell11c",
+      "sspr_f1_cell11c",
+      "sspr_seeds_cell11c",
+      "y_test_per_seed_cell11c"
+    ],
+    "torch_version": "2.11.0+cu130"
+  }
+}
