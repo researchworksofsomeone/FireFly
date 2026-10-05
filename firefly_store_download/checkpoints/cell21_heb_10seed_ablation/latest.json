@@ -1,0 +1,18 @@
+{
+  "latest_file": "checkpoint_20261005T105706Z.pt",
+  "meta": {
+    "cell_name": "cell21_heb_10seed_ablation",
+    "description": "Cell 21: HEB prototype head 10-seed defensive ablation. No fabricated result; comparison is skipped if SSPR array is missing.",
+    "created_at_utc": "20261005T105706Z",
+    "hf_bucket_url": "https://huggingface.co/buckets/Satabarto/FireFlyStore",
+    "hf_bucket_repo_id": "Satabarto/FireFlyStore",
+    "local_path": "hf_checkpoints/cell21_heb_10seed_ablation/checkpoint_20261005T105706Z.pt",
+    "payload_keys": [
+      "comparison",
+      "config",
+      "paths",
+      "summary"
+    ],
+    "torch_version": "2.11.0+cu130"
+  }
+}

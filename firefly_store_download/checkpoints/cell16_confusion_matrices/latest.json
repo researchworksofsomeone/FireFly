@@ -1,0 +1,19 @@
+{
+  "latest_file": "checkpoint_20261005T062906Z.pt",
+  "meta": {
+    "cell_name": "cell16_confusion_matrices",
+    "description": "Cell 16: rare-class confusion matrices from saved predictions.",
+    "created_at_utc": "20261005T062906Z",
+    "hf_bucket_url": "https://huggingface.co/buckets/Satabarto/FireFlyStore",
+    "hf_bucket_repo_id": "Satabarto/FireFlyStore",
+    "local_path": "hf_checkpoints/cell16_confusion_matrices/checkpoint_20261005T062906Z.pt",
+    "payload_keys": [
+      "num_classes",
+      "paths",
+      "rare_classes",
+      "rows",
+      "status"
+    ],
+    "torch_version": "2.11.0+cu130"
+  }
+}

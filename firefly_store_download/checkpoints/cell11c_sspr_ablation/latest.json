@@ -1,0 +1,21 @@
+{
+  "latest_file": "checkpoint_20261005T105324Z.pt",
+  "meta": {
+    "cell_name": "cell11c_sspr_ablation",
+    "description": "Cell 11c: true 10-seed SSPR before/after prototype refinement ablation.",
+    "created_at_utc": "20261005T105324Z",
+    "hf_bucket_url": "https://huggingface.co/buckets/Satabarto/FireFlyStore",
+    "hf_bucket_repo_id": "Satabarto/FireFlyStore",
+    "local_path": "hf_checkpoints/cell11c_sspr_ablation/checkpoint_20261005T105324Z.pt",
+    "payload_keys": [
+      "sspr_after_cell11c",
+      "sspr_before_cell11c",
+      "sspr_before_is_proxy_cell11c",
+      "sspr_config_cell11c",
+      "sspr_details_cell11c",
+      "sspr_f1_cell11c",
+      "sspr_seeds_cell11c"
+    ],
+    "torch_version": "2.11.0+cu130"
+  }
+}

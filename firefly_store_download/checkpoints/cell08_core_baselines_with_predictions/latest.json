@@ -1,0 +1,23 @@
+{
+  "latest_file": "checkpoint_20261005T062707Z.pt",
+  "meta": {
+    "cell_name": "cell08_core_baselines_with_predictions",
+    "description": "Cell 8: 10-seed GCN baseline and SPGCN with saved per-seed test predictions and test labels for per-class recall and confusion.",
+    "created_at_utc": "20261005T062707Z",
+    "hf_bucket_url": "https://huggingface.co/buckets/Satabarto/FireFlyStore",
+    "hf_bucket_repo_id": "Satabarto/FireFlyStore",
+    "local_path": "hf_checkpoints/cell08_core_baselines_with_predictions/checkpoint_20261005T062707Z.pt",
+    "payload_keys": [
+      "baseline_f1_cell8",
+      "cell8_config",
+      "cell8_details",
+      "pred_baseline_cell8",
+      "pred_spgcn_cell8",
+      "results_baseline_cell8",
+      "results_spgcn_cell8",
+      "spgcn_f1_cell8",
+      "y_test_per_seed_cell8"
+    ],
+    "torch_version": "2.11.0+cu130"
+  }
+}

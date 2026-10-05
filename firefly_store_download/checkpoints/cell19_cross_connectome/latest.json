@@ -1,0 +1,18 @@
+{
+  "latest_file": "checkpoint_20261005T065710Z.pt",
+  "meta": {
+    "cell_name": "cell19_cross_connectome",
+    "description": "Cell 19: cross-connectome structural coherence using frozen FAFB SSPR. Failures are recorded, not fabricated.",
+    "created_at_utc": "20261005T065710Z",
+    "hf_bucket_url": "https://huggingface.co/buckets/Satabarto/FireFlyStore",
+    "hf_bucket_repo_id": "Satabarto/FireFlyStore",
+    "local_path": "hf_checkpoints/cell19_cross_connectome/checkpoint_20261005T065710Z.pt",
+    "payload_keys": [
+      "frozen_path",
+      "paths",
+      "results",
+      "summary_rows"
+    ],
+    "torch_version": "2.11.0+cu130"
+  }
+}

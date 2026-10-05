@@ -1,0 +1,15 @@
+{
+  "latest_file": "checkpoint_20261005T053959Z.pt",
+  "meta": {
+    "cell_name": "cell09_legacy_table_tolerant",
+    "description": "Cell 9 replacement: tolerant legacy comprehensive table for new Cell 8. Reports GCN baseline and SPGCN; skips missing soma/ablation/robustness rows.",
+    "created_at_utc": "20261005T053959Z",
+    "hf_bucket_url": "https://huggingface.co/buckets/Satabarto/FireFlyStore",
+    "hf_bucket_repo_id": "Satabarto/FireFlyStore",
+    "local_path": "hf_checkpoints/cell09_legacy_table_tolerant/checkpoint_20261005T053959Z.pt",
+    "payload_keys": [
+      "cell9_legacy_summary"
+    ],
+    "torch_version": "2.11.0+cu130"
+  }
+}

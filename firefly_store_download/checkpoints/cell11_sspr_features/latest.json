@@ -1,0 +1,18 @@
+{
+  "latest_file": "checkpoint_20261005T054958Z.pt",
+  "meta": {
+    "cell_name": "cell11_sspr_features",
+    "description": "Cell 11: SSPR signed spectral + motif feature matrix and legacy SSPR variables if present.",
+    "created_at_utc": "20261005T054958Z",
+    "hf_bucket_url": "https://huggingface.co/buckets/Satabarto/FireFlyStore",
+    "hf_bucket_repo_id": "Satabarto/FireFlyStore",
+    "local_path": "hf_checkpoints/cell11_sspr_features/checkpoint_20261005T054958Z.pt",
+    "payload_keys": [
+      "X_sspr_tensor_cell11",
+      "sspr_before_cell11",
+      "sspr_f1_cell11",
+      "sspr_rare_cell11"
+    ],
+    "torch_version": "2.11.0+cu130"
+  }
+}

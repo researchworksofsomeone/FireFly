@@ -1,0 +1,22 @@
+{
+  "latest_file": "checkpoint_20261005T060724Z.pt",
+  "meta": {
+    "cell_name": "cell12_ntac_scaling",
+    "description": "Cell 12: NTAC subgraph scaling test results, decision text, config, worker script, and local JSON summary.",
+    "created_at_utc": "20261005T060724Z",
+    "hf_bucket_url": "https://huggingface.co/buckets/Satabarto/FireFlyStore",
+    "hf_bucket_repo_id": "Satabarto/FireFlyStore",
+    "local_path": "hf_checkpoints/cell12_ntac_scaling/checkpoint_20261005T060724Z.pt",
+    "payload_keys": [
+      "config",
+      "decision",
+      "graph_counts",
+      "local_json_path",
+      "paths",
+      "results_cell12",
+      "summary_rows",
+      "worker_script"
+    ],
+    "torch_version": "2.11.0+cu130"
+  }
+}

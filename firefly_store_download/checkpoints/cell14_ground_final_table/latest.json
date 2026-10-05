@@ -1,0 +1,19 @@
+{
+  "latest_file": "checkpoint_20261005T060738Z.pt",
+  "meta": {
+    "cell_name": "cell14_ground_final_table",
+    "description": "Cell 14: grounded final table with label propagation confirmed n=10.",
+    "created_at_utc": "20261005T060738Z",
+    "hf_bucket_url": "https://huggingface.co/buckets/Satabarto/FireFlyStore",
+    "hf_bucket_repo_id": "Satabarto/FireFlyStore",
+    "local_path": "hf_checkpoints/cell14_ground_final_table/checkpoint_20261005T060738Z.pt",
+    "payload_keys": [
+      "artifact_paths",
+      "display_rows",
+      "final_rows",
+      "lp_confirmation",
+      "n_overrides"
+    ],
+    "torch_version": "2.11.0+cu130"
+  }
+}
