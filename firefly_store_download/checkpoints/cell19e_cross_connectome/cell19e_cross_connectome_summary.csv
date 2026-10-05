@@ -1,4 +1,0 @@
-dataset,version,status,N,n_edges_signed,n_positive_edges,n_negative_edges,label_column,K,n_labeled,normalization_mode,motif_mode,ari,ari_null,ari_delta,ari_p_empirical,nmi,nmi_null,nmi_delta,nmi_p_empirical,error
-manc,1.2.1,connection_load_failed,23665,,,,,,,,,,,,,,,,,no_signed_edges
-maol,1.1,connection_load_failed,52445,,,,,,,,,,,,,,,,,no_signed_edges
-mcns,1.0,connection_load_failed,166700,,,,,,,,,,,,,,,,,no_signed_edges
